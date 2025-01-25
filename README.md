@@ -21,7 +21,7 @@ To run the Avatar Maker application, you'll need to have Python installed on you
 
    ```
    git clone https://github.com/Moeinz9322/Avatar_Maker_Streamlit.git
-   cd avatar-maker
+   cd avatar-maker_streamlit
    ```
 2. **Install the required packages:**
     ```
@@ -37,7 +37,7 @@ To run the Avatar Maker application, you'll need to have Python installed on you
 To run the application, execute the following command in the terminal:
 
 ```
-streamlit run avatar_streamlit.py
+streamlit run avatar_maker_streamlit.py
 ```
 This will start the Streamlit server and open the application in your default web browser.
 
